@@ -1,2 +1,4 @@
-# system-design
-URL Shortener, MillionGazilion, Find Duplicate files
+# System Design
+- URL Shortener
+- MillionGazilion
+- Find Duplicate files
